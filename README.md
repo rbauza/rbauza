@@ -35,10 +35,16 @@ Investigation of failed authentication attempts using Windows Event Logs, recons
 
 ---
 
-### 4. Network Traffic Analysis with Wireshark
-Packet-level investigation of suspicious network activity, identifying command-and-control communication, data exfiltration attempts, and malicious network behavior.
+### 4. Digital Forensics - Archive File Analysis
+Forensic examination of a suspicious archive file to extract hidden data, identify file metadata, and establish chain of custody for evidence collection.
 
-**Skills:** Packet Analysis | Protocol Analysis | Network Forensics | C2 Detection | Wireshark
+**Investigation Process:**
+- Analyzed archive structure and extracted embedded files
+- Identified file creation metadata and user attribution
+- Recovered hidden flag data using forensic tools
+- Documented timestamp analysis for incident timeline
+
+**Skills:** Digital Forensics | File Analysis | Metadata Extraction | Evidence Collection | Timeline Analysis
 
 🔗 _Coming Soon_
 
