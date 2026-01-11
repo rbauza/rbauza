@@ -1,73 +1,46 @@
-<h1>Ryan Bauza | Cybersecurity Portfolio</h1>
+<h1>Hi, I'm Ryan! <br/><a href="https://github.com/yourusername">Security Analyst</a>, <a href="https://www.linkedin.com/in/ryan-bauza/">Cybersecurity Professional</a></h1>
 
-<p>
-Cybersecurity graduate and CompTIA Security+ certified professional building
-analyst-focused security projects centered on SOC operations, incident response,
-and threat investigation.
-</p>
+<h2>👨‍💻 About Me</h2>
 
-<p>
-This repository serves as a hands-on cybersecurity portfolio showcasing
-realistic security investigations, SIEM analysis, and defensive security workflows.
-</p>
+Cybersecurity graduate and CompTIA Security+ certified professional specializing in SOC operations, incident response, and threat investigation. I build practical security projects that demonstrate real-world analyst skills and defensive security workflows.
 
----
+<h2>🛡️ SOC & Incident Response Projects:</h2>
 
-<h2>🛡️ Cybersecurity Projects</h2>
+- <b>Phishing Investigation & Analysis</b>
+  - [Email Header Analysis & IOC Extraction](https://github.com/yourusername/phishing-investigation) - Complete investigation workflow with MITRE ATT&CK mapping and remediation steps
+- <b>SIEM Alert Triage & Investigation</b>
+  - [Malware Alert Investigation (Splunk)](https://github.com/yourusername/malware-triage) - Suspicious PowerShell activity analysis with analyst decision-making documentation
+  - [Windows Event Log Brute Force Detection](https://github.com/yourusername/bruteforce-analysis) - Failed login detection, timeline reconstruction, and incident response
+- <b>Threat Hunting & Detection</b>
+  - [MITRE ATT&CK Detection Mapping](https://github.com/yourusername/mitre-mapping) - Mapping attacker techniques to defensive controls and detection opportunities
 
-<h3>🔍 SOC & Incident Response</h3>
+<h2>📊 SIEM & Log Analysis:</h2>
 
-- <b>Phishing Investigation Case Study</b>  
-  - Email header analysis, IOC extraction, MITRE ATT&CK mapping, and remediation steps  
-  - 🔗 Repo coming soon
+- <b>Splunk Security Operations</b>
+  - [SOC Alert Investigation Labs](https://github.com/yourusername/splunk-labs) - Authentication failures, process execution anomalies, and threat correlation
+- <b>Security Monitoring & Analysis</b>
+  - [TryHackMe SOC Level 1 Writeups](https://github.com/yourusername/thm-soc-writeups) - Detection, investigation, and response documentation
+  - [National Cyber League Challenges](https://github.com/yourusername/ncl-challenges) - OSINT, network analysis, and web application assessments
 
-- <b>Malware Alert Triage (SIEM)</b>  
-  - Investigation of suspicious PowerShell activity with analyst decision-making  
-  - 🔗 Repo coming soon
+<h2>⚙️ Security Automation & Tools:</h2>
 
-- <b>Windows Event Log Brute Force Analysis</b>  
-  - Failed login detection, attack timeline reconstruction, and response actions  
-  - 🔗 Repo coming soon
+- <b>Python Security Tools</b>
+  - [IOC Extraction Utility](https://github.com/yourusername/ioc-extractor) - Automated extraction of IPs, domains, and file hashes from logs
+- <b>PowerShell Security Scripts</b>
+  - [Security Monitoring Automation](https://github.com/yourusername/powershell-security) - Failed login detection and log parsing for incident response
 
----
+<h2>📜 Certifications</h2>
 
-<h3>📊 SIEM & Log Analysis</h3>
+- CompTIA Security+ 
+- [Add others as you earn them]
 
-- <b>Splunk Alert Investigation Labs</b>  
-  - Authentication failures, process execution, and threat correlation  
-  - 🔗 Repo coming soon
+<h2> 🤳 Connect with me:</h2>
 
-- <b>MITRE ATT&CK Mapping for SOC Alerts</b>  
-  - Mapping attacker techniques to defensive controls and detection opportunities  
-  - 🔗 Repo coming soon
+[<img align="left" alt="Ryan Bauza | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Ryan Bauza | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
----
+[linkedin]: https://www.linkedin.com/in/ryan-bauza/
 
-<h3>🧪 Hands-On Labs & Simulations</h3>
-
-- <b>TryHackMe SOC Level 1 Pathway</b>  
-  - Analyst-style writeups focused on detection, investigation, and response  
-  - 🔗 Repo coming soon
-
-- <b>National Cyber League Security Analysis</b>  
-  - OSINT, network traffic analysis, and web application risk assessments  
-  - 🔗 Repo coming soon
-
----
-
-<h3>⚙️ Automation & Scripting</h3>
-
-- <b>Python IOC Extraction Tool</b>  
-  - Extracts IPs, domains, and hashes from logs to support SOC investigations  
-  - 🔗 Repo coming soon
-
-- <b>PowerShell Security Monitoring Scripts</b>  
-  - Failed login detection and log parsing for security monitoring  
-  - 🔗 Repo coming soon
-
----
-
-<h2>🔗 Links</h2>
-
-- 💼 LinkedIn: <a href="https://www.linkedin.com/in/ryan-bauza/">linkedin.com/in/ryan-bauza</a>
-- 📄 Resume (PDF): <i>Link coming soon</i>
+<!--
+**yourusername/yourusername** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
