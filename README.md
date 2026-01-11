@@ -2,7 +2,9 @@
 
 <h2>👨‍💻 About Me</h2>
 
-Cybersecurity graduate and CompTIA Security+ certified professional specializing in SOC operations, incident response, and threat investigation. I build practical security projects that demonstrate real-world analyst skills and defensive security workflows.
+Security-focused professional with CompTIA Security+ certification and hands-on experience in SOC operations, threat detection, and incident response. Skilled in SIEM platforms (Splunk), log analysis, and security automation using Python and PowerShell. I build practical projects that mirror real-world SOC analyst workflows—from phishing investigations and malware triage to threat hunting and MITRE ATT&CK mapping.
+
+Currently seeking opportunities as a SOC Analyst or Security Analyst where I can apply my technical skills and analytical mindset to detect, investigate, and respond to security threats.
 
 <h2>🛡️ SOC & Incident Response Projects:</h2>
 
@@ -37,10 +39,7 @@ Cybersecurity graduate and CompTIA Security+ certified professional specializing
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Ryan Bauza | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Ryan Bauza | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
 [linkedin]: https://www.linkedin.com/in/ryan-bauza/
 
-<!--
-**yourusername/yourusername** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
