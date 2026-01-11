@@ -6,22 +6,41 @@ Security-focused professional with CompTIA Security+ certification and hands-on 
 
 Currently seeking opportunities as a SOC Analyst or Security Analyst where I can apply my technical skills and analytical mindset to detect, investigate, and respond to security threats.
 
-<h2>🛡️ SOC & Incident Response Projects:</h2>
+<h2>🛡️ Cybersecurity Projects</h2>
 
-**🔍 SOC & Incident Response**
-- Phishing Email Investigation & IOC Extraction _(Coming Soon)_
-- Malware Alert Triage using Splunk _(Coming Soon)_
-- Windows Event Log Brute Force Analysis _(Coming Soon)_
-- MITRE ATT&CK Detection Mapping _(Coming Soon)_
+### 1. Phishing Email Investigation & Analysis
+Email forensics investigation demonstrating header analysis, malicious link/attachment identification, IOC extraction, and MITRE ATT&CK technique mapping for a sophisticated phishing campaign.
 
-**📊 SIEM & Log Analysis**
-- Splunk Alert Investigation Labs _(Coming Soon)_
-- TryHackMe SOC Level 1 Writeups _(Coming Soon)_
-- Network Traffic Analysis with Wireshark _(Coming Soon)_
+**Skills:** Email Forensics | Threat Intelligence | IOC Extraction | MITRE ATT&CK | Incident Response
 
-**⚙️ Security Automation & Tools**
-- Python IOC Extraction Utility _(Coming Soon)_
-- PowerShell Security Monitoring Scripts _(Coming Soon)_
+🔗 _Coming Soon_
+
+---
+
+### 2. SIEM Alert Investigation with Splunk
+End-to-end security alert investigation using Splunk, including query development, log correlation, threat hunting, and incident triage for suspicious authentication and process execution events.
+
+**Skills:** SIEM Operations | Splunk Query Language (SPL) | Log Analysis | Threat Correlation | Alert Triage
+
+🔗 _Coming Soon_
+
+---
+
+### 3. Windows Event Log Analysis - Brute Force Attack Detection
+Investigation of failed authentication attempts using Windows Event Logs, reconstructing attack timeline, identifying attacker TTPs, and documenting response actions.
+
+**Skills:** Windows Event Logs | Attack Detection | Timeline Analysis | Incident Response | TTPs Identification
+
+🔗 _Coming Soon_
+
+---
+
+### 4. Network Traffic Analysis with Wireshark
+Packet-level investigation of suspicious network activity, identifying command-and-control communication, data exfiltration attempts, and malicious network behavior.
+
+**Skills:** Packet Analysis | Protocol Analysis | Network Forensics | C2 Detection | Wireshark
+
+🔗 _Coming Soon_
 
 <h2>📜 Certifications</h2>
 
